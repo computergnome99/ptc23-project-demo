@@ -1,5 +1,10 @@
 <svelte:head>
 	<title>Home</title>
+	<meta
+		name="description"
+		content="My name is Calvin Bonner, I am a Front-End and Service-Layer developer from Grand Rapids MI
+			with experience in numerous technical fields and across multiple tech-stacks."
+	/>
 </svelte:head>
 
 <section class="bg-white">
