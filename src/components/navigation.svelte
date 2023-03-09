@@ -53,8 +53,16 @@
 			</div>
 			<div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
 				<div class="flex flex-shrink-0 items-center">
-					<img class="block h-8 w-8 rounded-full lg:hidden" src="/profile.jpg" alt="My face" />
-					<img class="hidden h-8 w-auto rounded-full lg:block" src="/profile.jpg" alt="My face" />
+					<img
+						class="block h-8 w-8 rounded-full lg:hidden"
+						src="/profile-square.webp"
+						alt="My face"
+					/>
+					<img
+						class="hidden h-8 w-auto rounded-full lg:block"
+						src="/profile-square.webp"
+						alt="My face"
+					/>
 				</div>
 				<div class="hidden sm:ml-6 sm:flex sm:space-x-8">
 					<a

@@ -41,7 +41,7 @@
 					class="absolute inset-y-0 right-1/2 -z-10 -mr-10 w-[200%] skew-x-[-30deg] bg-white shadow-xl shadow-indigo-600/10 ring-1 ring-indigo-50 md:-mr-20 lg:-mr-36"
 					aria-hidden="true"
 				/>
-				<img class="shadow-lg md:rounded-3xl overflow-hidden" src="/hero.jpg" alt="My face" />
+				<img class="shadow-lg md:rounded-3xl overflow-hidden" src="/hero.webp" alt="My face" />
 			</div>
 		</div>
 		<div class="absolute inset-x-0 bottom-0 -z-10 h-24 bg-gradient-to-t from-white sm:h-32" />
@@ -64,7 +64,7 @@
 					<figcaption class="mt-10 flex items-center gap-x-6">
 						<img
 							class="h-14 w-14 rounded-full bg-gray-50"
-							src="/steve-mete.jpg"
+							src="/steve-mete.webp"
 							alt="Steven Mete"
 						/>
 						<div class="text-base">
@@ -88,7 +88,7 @@
 					<figcaption class="mt-10 flex items-center gap-x-6">
 						<img
 							class="h-14 w-14 rounded-full bg-gray-50"
-							src="/jordan-koller.jpg"
+							src="/jordan-koller.webp"
 							alt="Jordan Koller"
 						/>
 						<div class="text-base">
